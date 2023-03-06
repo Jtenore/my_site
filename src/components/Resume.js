@@ -25,34 +25,31 @@ export const Resume = () => {
 			</div>
 
 			<h1 className="top_pad, res_header2">Skills</h1>
+			<h2>Computer Languages: Javascript/React, Ruby, HTML, CSS, SQL, Python, Java, BASH, CLI</h2>
 
 			<div className="skill_box">
 				<div>
 					<ul>
+						<li>Worked with Windows/MacOS/Linux</li>
+						<li>Software and Hardware Troubleshooting</li>
 						<li>I have built my own PC</li>
-						<li>JavaScript/React</li>
-						<li>Ruby</li>
-						<li>HTML</li>
-						<li>CSS</li>
+						<li>Test driven development</li>
 					</ul>
 				</div>
 				<div>
 					<ul>
+						<li>Pair programming</li>
 						<li>Working on a website</li>
-						<li>I have good customer care experience</li>
-						<li>SQL</li>
 						<li>small amounts of AWS</li>
 						<li>Customer service certified</li>
 					</ul>
 				</div>
 				<div>
 					<ul>
-						<li>Test driven development</li>
-						<li>Pair programming</li>
+						<li>Blueprint reading</li>
 						<li>CNC Lathe Operation</li>
 						<li>Forklift certified</li>
 						<li>OSHA certified</li>
-						<li>Blueprint reading</li>
 					</ul>
 				</div>
 			</div>
@@ -90,6 +87,18 @@ export const Resume = () => {
 
 			<div>
 				<h1 className="top_pad">Past Jobs</h1>
+
+				<h3>OCT 2022</h3>
+				<h2 className="res_header2">
+					Help Desk / Massasoit Community College, Brockton MA
+				</h2>
+				<ul>
+					<li>Support with basic over the phone troubleshooting</li>
+					<li>Experience with Accurate Ticket assigning</li>
+					<li>Some hands on hardware support striping hard drives and component swapping</li>
+					<li>Occasionally taking on campus calls to offices</li>
+				</ul>
+
 				<h3>MAY 2021</h3>
 				<h2 className="res_header2">
 					CNC Machine Operator / AMI, Middleboro MA
@@ -170,31 +179,6 @@ export const Resume = () => {
 					<li>food preperation</li>
 					<li>using customer input to output desired results</li>
 				</ul>
-			</div>
-
-			<div>
-				<h1>Education</h1>
-
-				<h3>MAY 2020</h3>
-				<h2 className="res_header2">
-					Forever Student / Massasoit, Brockton MA
-				</h2>
-				<p>
-					Whenever I have free time I like to take courses to learn new things
-					I've taken many different general studies courses, along with a
-					computer hardware class and some java classes and plan on continuing
-					to work towards (a) Degree(s)
-				</p>
-			</div>
-
-			<div>
-				<h3>
-					I am also working on certification on different certifications, I'm
-					very interesting in getting my Comptia A+, and the CCNA right now. But
-					I don't plan on stopping there more to come im interested in Full
-					stack Development and the field of Network Engineering, I'm very
-					interested in computers hardware and software alike.
-				</h3>
 			</div>
 		</div>
 	);
