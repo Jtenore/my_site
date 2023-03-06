@@ -59,6 +59,12 @@ export const Resume = () => {
 
 			<div>
 				<h1>Professional Development</h1>
+
+				<h2 className="underline_center_top">Google IT Support Fundamentals Certification</h2>
+				<p className="text_center">
+					This certification program was very diverse, contained many different subjects such as scripting simple automation and formating regular expressions. It covered Customer care and being thorough in your questions while keeping your client feeling safe. The course continued to cover things like various computer hardware. Afterwards what was included was many of the various details of computer networking covering everything from an ethernet frame to many of the networking protocols. It also covered many of he different IT toold such as Active directory, mailing servers, and various topics such as DNS and DHCP. They covered roles of a System Adminitrator and covered many areas of making you think how to set up an IT infrastructure and best practices with Stocking devices for employees. Lastly they touched heavily on IT Security from Password best practices to many security protocols and various encryption methods.
+				</p>
+
 				<h2 className="underline_center_top">Launch academy</h2>
 				<p className="text_center">
 					Launch academy was training that included 18 weeks of immersive full
