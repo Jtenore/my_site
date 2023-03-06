@@ -1,5 +1,5 @@
 div {
-	font-size: 110%;
+	font-size: 95%;
 }
 
 body {
@@ -68,7 +68,6 @@ textarea {
 
 .resume_name {
 	width: 10%;
-	font-size: 25pt;
 }
 
 .resume_contact {
