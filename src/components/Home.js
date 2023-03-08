@@ -16,8 +16,9 @@ export const Home = () => {
 	return (
 		<div className="home_main, side_pad">
 			<h1>Joseph Tenore</h1>
+			<h1>Julio said I did a great job</h1>
 
-			<p>
+			<p className="top_pad">
 				not ready for mobile
 				<br />
 				constantly under maintenance
