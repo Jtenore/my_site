@@ -2,7 +2,7 @@ import "../index.css";
 
 export const Certificate = () => {
 	return (
-		<div>
+		<div className="side_pad">
 			<h1>
 				Completed
 			</h1>

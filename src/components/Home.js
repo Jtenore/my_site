@@ -14,7 +14,7 @@ export const Home = () => {
 	};
 
 	return (
-		<div className="home_main">
+		<div className="home_main, side_pad">
 			<h1>Joseph Tenore</h1>
 
 			<p>

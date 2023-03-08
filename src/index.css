@@ -84,6 +84,11 @@ textarea {
 	padding-top: 3%;
 }
 
+.side_pad {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
 .skill_box {
 	display: flex;
 	justify-content: space-evenly;

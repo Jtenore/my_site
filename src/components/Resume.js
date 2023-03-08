@@ -2,7 +2,7 @@ import "../index.css";
 
 export const Resume = () => {
 	return (
-		<div className="res">
+		<div className="res, side_pad">
 			<div className="res_header">
 				<div className="resume_name">
 					<h1>Joseph Tenore</h1>

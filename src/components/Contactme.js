@@ -27,7 +27,7 @@ export const Contactme = () => {
 	};
 
 	return (
-		<div className="contact_div_form">
+		<div className="contact_div_form, side_pad">
 			<h1>Contactme</h1>
 
 			<div className="left_pad">
