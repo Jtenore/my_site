@@ -25,7 +25,8 @@ export const Certificate = () => {
 			</h1>
 			<br/>
 			<h2>
-				Comptia A+
+				Comptia A+ 
+				Core 1 has been has been completed next is core 2.
 			</h2>
 			<p>
 				I've been working on my A+ for a while now an am getting comfortable enough to take the exams already scheduled the first one and will soon update hopefully.
